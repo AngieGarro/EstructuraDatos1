@@ -5,7 +5,7 @@ CONTENIDO DEL REPOSITORIO:
 IMPLEMENTACIÓN DE LISTAS
 - Listas Simples.
 
-	// operaciones micelaneas
+		// operaciones micelaneas
 		NodoS* dirDato(int) // Direccion del nodo cuyo dato es el referenciado
 		NodoS* dirAnteriorDato(int) //Direccion del nodo anterior al nodo cuyo valor sea el referenciado
 		NodoS* dirAnterior(NodoS*) // Direccion del nodo anterior del nodo de la direccion referenciada
@@ -43,7 +43,7 @@ IMPLEMENTACIÓN DE LISTAS
     
 - Listas Doble Lineal.
 
-  int primero()
+  	int primero()
 	int ultimo()
 	int datoPos(int)
 	bool esVacia()
@@ -75,7 +75,7 @@ IMPLEMENTACIÓN DE LISTAS
   
 - Listas Doble Circular.
 
-  int primero()
+  	int primero()
 	int ultimo()
 	int datoPos(int)
 	bool esVacia()
